@@ -6,7 +6,6 @@
 package com.mycompany.listadeexerciciosiii;
 import java.util.Scanner;
 
-
 /**
  * @author Jonatas Severino Da Silva
  */
